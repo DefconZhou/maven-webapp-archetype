@@ -1,2 +1,3 @@
 # maven-webapp-archetype
-maven archetype for creating web app
+Maven archetype for creating web app.
+Support servlet 3.1 + jdk1.8 
